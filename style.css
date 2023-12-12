@@ -1,0 +1,48 @@
+header p{
+    padding-bottom: 30px;
+    font-size: 18px;
+}
+
+body {
+    font-family:'Times New Roman', Times, serif;
+    background-color: lightgreen;
+}
+
+.krampus, .yulecat, .santa{
+    padding-bottom: 30px;
+}
+
+.krampus img{
+    border-radius: 300px;
+    height: 260px;
+    border-color: brown;
+    border-style: dashed;
+}
+
+.santa img{
+    height: 200px;
+    width: 300px;
+    border-radius: 500px;
+    border-style: dotted;
+    border-color: red;
+}
+
+p{
+    color: darkred;
+}
+
+h1, h3{
+    color: red;
+}
+
+.yulecat img{
+    width: 300px;
+    height: 400px;
+    border-radius: 200px;
+    border-style: dotted;
+    border-color: white;
+}
+
+.end{
+    font-size: 20px;
+}
